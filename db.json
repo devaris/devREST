@@ -35,19 +35,21 @@
       "score": 1,
       "percentage": ""
     },
-    "selections": {
+    {
+      "selections": {
           "0": [
                   {
                       "value": 2,
                       "checked": false,
-                      "answer": "whateva2a"
+                      "answer": "whateva2"
                   },
                   {
                       "value": 0,
-                      "checked": true,
-                      "answer": "whateva3b"
-                  },{
-                      "value": "dipartim",
+                      "checked": false,
+                      "answer": "whateva2b"
+                  },
+                  {
+                      "value": "diparti2",
                       "checked": true
                   },
                   {
