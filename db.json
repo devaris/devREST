@@ -7,69 +7,73 @@
     {
       "id": 2,
       "title": "hello2"
-    },
-    {
-      "id": 3,
-      "title": "hello3"
     }
   ],
   "profile": {
     "name": "typicode"
   },
-  "cookieJSON": [
+  "testJSON": [
     {
-      "selections": {
-          "0": [
-                  {
-                      "value": 1,
-                      "checked": true,
-                      "answer": "whateva1"
-                  },
-                  {
-                      "value": 0,
-                      "checked": true,
-                      "answer": "whateva1b"
-                  },
-                  {
-                      "value": "dipartimento",
-                      "checked": true
-                  },
-                  {
-                      "value": 1,
-                      "checked": false,
-                      "answer": "whateva1c"
-                  }
-          ]
-      },
-      "score": 1,
-      "percentage": ""
+      "Title":"Nuovissimo Progetto Italiano 2",
+      "Unit":2,
+      "Activity_Type": "Display"
     },
     {
+      "Title":"Nuovissimo Progetto Italiano 2",
+      "Unit":2,
+      "Activity_Type": "Display"
+    },
+    {
+      "Title":"Nuovissimo Progetto Italiano 2",
+      "Unit":2,
+      "Activity_Type": "DropDown",
       "selections": {
           "0": [
                   {
                       "value": 1,
                       "checked": true,
-                      "answer": "whateva1"
+                      "answer": "che"
+                  },
+                  {
+                      "value": 2,
+                      "checked": false
+                      "answer": "per cui"
                   },
                   {
                       "value": 0,
                       "checked": true,
-                      "answer": "whateva1b"
-                  },
-                  {
-                      "value": "dipartimento",
-                      "checked": true
-                  },
-                  {
-                      "value": 1,
-                      "checked": false,
-                      "answer": "whateva1c"
+                      "answer": "seleziona"
                   }
           ]
       },
-      "score": 1,
-      "percentage": ""
+      "score": 0.2,
+      "percentage": "40"
+    },
+    {
+      "Title":"Nuovissimo Progetto Italiano 2",
+      "Unit":2,
+      "Activity_Type": "TypeIn",
+      "selections": {
+          "0": [
+                  {
+                      "value": "il conto",
+                      "checked": true,
+                      "answer": "il conto"
+                  },
+                  {
+                      "value": "il contol",
+                      "checked": true,
+                      "answer": "il conto"
+                  },
+                  {
+                      "value": "dipartimento",
+                      "checked": true,
+                      "answer": "il conto"
+                  }
+          ]
+      },
+      "score": 0.5,
+      "percentage": "50"
     }
     
     
