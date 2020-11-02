@@ -7,6 +7,29 @@
   ],
   "profile": {
     "name": "typicode"
-  }    
+  },
+  "cookieJSON": [
+    {
+      "selections": {
+          "0": [
+                  {
+                      "value": 1,
+                      "checked": true,
+                      "answer": "whateva1"
+                  },
+                  {
+                      "value": 0,
+                      "checked": true,
+                      "answer": "whateva1b"
+                  }
+          ]
+      },
+      "score": 1,
+      "percentage": ""
+    }
+  ]     
+  
+  
+  
   
 }
