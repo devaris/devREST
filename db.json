@@ -21,6 +21,15 @@
                       "value": 0,
                       "checked": true,
                       "answer": "whateva1b"
+                  },
+                  {
+                      "value": "dipartimento",
+                      "checked": true
+                  },
+                  {
+                      "value": 1,
+                      "checked": false,
+                      "answer": "whateva1c"
                   }
           ]
       },
