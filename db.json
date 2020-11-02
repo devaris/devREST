@@ -35,7 +35,36 @@
       },
       "score": 1,
       "percentage": ""
+    },
+    {
+      "selections": {
+          "0": [
+                  {
+                      "value": 1,
+                      "checked": true,
+                      "answer": "whateva1"
+                  },
+                  {
+                      "value": 0,
+                      "checked": true,
+                      "answer": "whateva1b"
+                  },
+                  {
+                      "value": "dipartimento",
+                      "checked": true
+                  },
+                  {
+                      "value": 1,
+                      "checked": false,
+                      "answer": "whateva1c"
+                  }
+          ]
+      },
+      "score": 1,
+      "percentage": ""
     }
+    
+    
   ]     
   
   
