@@ -20,7 +20,7 @@
                   {
                       "value": 0,
                       "checked": true,
-                      "answer": "whateva2"
+                      "answer": "whateva1b"
                   },{
                       "value": "dipartimento",
                       "checked": true
@@ -28,13 +28,38 @@
                   {
                       "value": 1,
                       "checked": false,
-                      "answer": "whateva3"
+                      "answer": "whateva1c"
                   }
           ]
       },
       "score": 1,
       "percentage": ""
+    },
+    "selections": {
+          "0": [
+                  {
+                      "value": 2,
+                      "checked": false,
+                      "answer": "whateva2a"
+                  },
+                  {
+                      "value": 0,
+                      "checked": true,
+                      "answer": "whateva3b"
+                  },{
+                      "value": "dipartim",
+                      "checked": true
+                  },
+                  {
+                      "value": 2,
+                      "checked": false,
+                      "answer": "whateva2c"
+                  }
+          ]
+      },
+      "score": 2,
+      "percentage": ""
     }
-   ]         
+  ]         
   
 }
