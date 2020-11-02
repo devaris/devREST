@@ -34,33 +34,6 @@
       },
       "score": 1,
       "percentage": ""
-    },
-    {
-      "selections": {
-          "0": [
-                  {
-                      "value": 2,
-                      "checked": false,
-                      "answer": "whateva2"
-                  },
-                  {
-                      "value": 0,
-                      "checked": false,
-                      "answer": "whateva2b"
-                  },
-                  {
-                      "value": "diparti2",
-                      "checked": true
-                  },
-                  {
-                      "value": 2,
-                      "checked": false,
-                      "answer": "whateva2c"
-                  }
-          ]
-      },
-      "score": 2,
-      "percentage": ""
     }
   ]         
   
